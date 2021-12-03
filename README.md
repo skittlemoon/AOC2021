@@ -1,2 +1,2 @@
 # AOC2021
-Type anything
+Pretending to know what I'm doing :D
